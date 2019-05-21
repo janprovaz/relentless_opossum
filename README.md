@@ -16,6 +16,13 @@ Demo repo for EMBL Git and version control course. _No_ animals were eaten.
 - lime (as suggested by Master Chef Kevin)
 - ground nutmeg
 
+## Instructions
+
+- first of all, burn off any excees hair on the opossum
+- chop meat into evenly sized cubes and remove any arteries
+- onions, chop to small cubes
+
+
 -------------
 
 - you can add bullets
