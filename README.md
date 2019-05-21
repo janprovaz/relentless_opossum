@@ -14,6 +14,7 @@ Demo repo for EMBL Git and version control course. _No_ animals were eaten.
 - cumin
 - spicy peppers to cover the horrendous taste of opossum
 - lime (as suggested by Master Chef Kevin)
+- ground nutmeg
 
 -------------
 
