@@ -7,8 +7,10 @@ Demo repo for EMBL Git and version control course. _No_ animals were eaten.
 - 400g of fresh opossum meat
 - 500g white onion
 - 2 cloves of garlic
-- salt & pepa
-
+- dash of salt & pepa
+- 2 bottles of decent red wine
+- 2kg potatoes
+- cumin
 
 -------------
 
