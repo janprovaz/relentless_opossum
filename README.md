@@ -19,6 +19,7 @@ Demo repo for EMBL Git and version control course. _No_ animals were eaten.
 ## Instructions
 
 - first of all, burn off any excess hair on the opossum
+- gently de-gland the carcass
 - chop meat into evenly sized cubes and remove any arteries
 - onions, chop to small cubes
 
