@@ -11,6 +11,7 @@ Demo repo for EMBL Git and version control course. _No_ animals were eaten.
 - 2 bottles of decent red wine
 - 2kg potatoes
 - cumin
+- spicy peppers to cover the horrendous taste of opossum
 
 -------------
 
