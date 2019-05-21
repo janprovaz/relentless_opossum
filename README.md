@@ -5,7 +5,7 @@ Demo repo for EMBL Git and version control course. _No_ animals were eaten.
 
 ## List of required items:
 
-- 400g of fresh opossum meat
+- 400g of soya meat
 - 500g white onion
 - 2 cloves of garlic
 - dash of salt & pepa
