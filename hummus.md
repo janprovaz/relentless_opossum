@@ -5,3 +5,5 @@
 - olive oil
 - salt
 - garlic
+- paprika powder
+- lemon
