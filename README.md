@@ -9,6 +9,8 @@ Demo repo for EMBL Git and version control course. _No_ animals were eaten.
 - 2 cloves of garlic
 - salt & pepa
 
+<!-- HTML comment test -->
+
 
 -------------
 
