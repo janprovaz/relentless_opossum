@@ -19,7 +19,7 @@ Demo repo for EMBL Git and version control course. _No_ animals were eaten.
 
 `backticks can do code`
 
-```
+```Bash
 for opossum in find roadkill
   do cook $opossum
 done
